@@ -1,2 +1,5 @@
-# spring-framework-practice
-Spring Framework practice projects and notes
+Spring Framework Practice - Day 1
+Topics:
+- IoC
+- Dependency Injection
+- Beans
